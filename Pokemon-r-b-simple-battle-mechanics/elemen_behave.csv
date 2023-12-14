@@ -1,0 +1,7 @@
+element,weakness
+normal,no_significant_weakness
+fire,ice
+water,fire
+ice,grass
+grass,water
+poison,grass
