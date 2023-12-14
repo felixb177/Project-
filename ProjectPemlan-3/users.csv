@@ -1,0 +1,15 @@
+username,password,tiket_film,jumlah
+user1,password1,barbie,"(10, 1)"
+user1,password1,barbie,"(10, 2)"
+rico,rico,goat_documentary,"(2, 2)"
+rico,rico,goat_documentary,"(4, 1)"
+rico,rico,spidey,"(1, 2)"rico,rico,spidey,"(3, 1)"
+rico,rico,spidey,"(3, 2)"
+rico,rico,barbie,"(3, 2)"
+rico,rico,barbie,"(2, 2)"
+rico,rico,barbie,"(2, 1)"
+rico,rico,spidey,"(3, 0)"
+geri,geri
+geri,geri,goat_documentary,"(1, 0)"
+geri,geri,goat_documentary,"(1, 1)"
+geri,geri,goat_documentary,"(1, 2)"
